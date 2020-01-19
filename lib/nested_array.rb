@@ -48,11 +48,6 @@ def sorted_matrix
   produce_storage_room = [
     copy_conventional.sort, copy_organic.sort
     ]
-
-
-  
-
-produce_storage_room  
   
 end
 
