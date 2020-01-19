@@ -43,6 +43,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
 
   copy_conventional = CONVENTIONAL_PRODUCE
+  copy_organic = ORGANIC_PRODUCE
 
 
   
