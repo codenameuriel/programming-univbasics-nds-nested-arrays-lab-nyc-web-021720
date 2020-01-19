@@ -41,7 +41,9 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-produce_storage_room = 
+produce_storage_room = [
+  CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort
+  ] 
   
 end
 
