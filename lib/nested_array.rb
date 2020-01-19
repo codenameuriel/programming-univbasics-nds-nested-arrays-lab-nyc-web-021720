@@ -48,6 +48,8 @@ CONVENTIONAL_PRODUCE = [
 produce_storage_room = [
   CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort
   ] 
+
+produce_storage_room  
   
 end
 
