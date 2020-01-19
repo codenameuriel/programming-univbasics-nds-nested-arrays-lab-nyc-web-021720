@@ -45,7 +45,9 @@ def sorted_matrix
   copy_conventional = CONVENTIONAL_PRODUCE
   copy_organic = ORGANIC_PRODUCE
   
-  
+  produce_storage_room = [
+    copy_conventional.sort, copy_organic.sort
+    ]
 
 
   
