@@ -46,7 +46,8 @@ def sorted_matrix
   copy_organic = ORGANIC_PRODUCE
   
   produce_storage_room = [
-    copy_conventional.sort, copy_organic.sort
+    CONVENTIONAL_PRODUCE.sort, 
+    ORGANIC_PRODUCE.sort
     ]
   
 end
